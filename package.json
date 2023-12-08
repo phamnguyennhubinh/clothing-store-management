@@ -1,0 +1,26 @@
+{
+  "name": "clothing-store-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamnguyennhubinh/clothing-store-management.git"
+  },
+  "author": "nhubinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamnguyennhubinh/clothing-store-management/issues"
+  },
+  "homepage": "https://github.com/phamnguyennhubinh/clothing-store-management#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
